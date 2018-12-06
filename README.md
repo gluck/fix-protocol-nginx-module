@@ -5,6 +5,10 @@ fix-protocol-nginx-module - [Nginx](https://www.nginx.com/) stream module for lo
 Table of Contents
 =================
 
+* [Name](#name)
+* [Objetive](#objetive)
+* [Installation](#installation)
+
 Objetive
 ========
 
