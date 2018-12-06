@@ -27,7 +27,6 @@ cd nginx-1.13.6/
 
 # Here we assume Nginx is to be installed under /opt/nginx/.
 ./configure --prefix=/opt/nginx \
-        --with-ld-opt="-Wl,-rpath,/path/to/luajit-or-lua/lib" \
         --with-stream \
         --with-stream_ssl_module \
         --add-module=/path/to/fix-protocol-nginx-module
