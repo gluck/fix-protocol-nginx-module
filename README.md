@@ -53,5 +53,6 @@ Links
 
 https://docs.nginx.com/nginx/admin-guide/load-balancer/tcp-udp-load-balancer/
 https://nginx.org/en/docs/stream/ngx_stream_proxy_module.html
+https://github.com/openresty/stream-lua-nginx-module
 
 [Back to TOC](#table-of-contents)
