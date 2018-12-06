@@ -6,10 +6,10 @@ Table of Contents
 =================
 
 * [Name](#name)
-* [Objetive](#objetive)
+* [Objective](#objective)
 * [Installation](#installation)
 
-Objetive
+Objective
 ========
 
 Goal of this project is to support TLS termination of FIX sessions and load balance them over multiple endpoints based on message (logon) content (on top of existing load balancing options)
