@@ -10,6 +10,7 @@ Table of Contents
 * [Name](#name)
 * [Objective](#objective)
 * [Installation](#installation)
+* [Links](#links)
 
 Objective
 ========
@@ -47,3 +48,9 @@ ngx_stream_fixprotocol will work perfectly fine without the presense of the HTTP
 
 [Back to TOC](#table-of-contents)
 
+Links
+=====
+
+https://docs.nginx.com/nginx/admin-guide/load-balancer/tcp-udp-load-balancer/
+
+[Back to TOC](#table-of-contents)
