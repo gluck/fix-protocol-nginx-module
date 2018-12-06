@@ -2,6 +2,8 @@ Name
 =================
 fix-protocol-nginx-module - [Nginx](https://www.nginx.com/) stream module for load balancing [FIX](https://www.fixtrading.org/) sessions
 
+*This module is not distributed with the Nginx source.* See [the installation instructions](#installation).
+
 Table of Contents
 =================
 
